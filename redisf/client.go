@@ -2,7 +2,7 @@ package redisf
 
 import (
 	"github.com/go-redis/redis"
-	"lf.framework/appconfig"
+	"github.com/langfengac/lf.framework/appconfig"
 	"strings"
 )
 
