@@ -3,8 +3,8 @@ package appconfig
 import (
 	"bufio"
 	"fmt"
+	lf "github.com/langfengac/lf.framework/framework"
 	"io"
-	lf "lf.framework/framework"
 	"os"
 	"strconv"
 	"strings"

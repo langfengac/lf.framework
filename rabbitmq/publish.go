@@ -1,8 +1,8 @@
 package rabbitmq
 
 import (
+	"github.com/langfengac/lf.framework/nlog"
 	"github.com/streadway/amqp"
-	"lf.framework/nlog"
 )
 
 //生产消息

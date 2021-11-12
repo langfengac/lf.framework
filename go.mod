@@ -1,5 +1,5 @@
-module lf.framework
+module github.com/langfengac/lf.framework
 
-go 1.13
+go 1.15
 
 require github.com/streadway/amqp v1.0.0

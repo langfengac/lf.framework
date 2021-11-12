@@ -1,7 +1,7 @@
 package nlog
 
 import (
-	"lf.framework/appconfig"
+	"github.com/langfengac/lf.framework/appconfig"
 	"os"
 )
 

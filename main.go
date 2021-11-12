@@ -3,10 +3,10 @@ package main
 import (
 	"errors"
 	"fmt"
-	"lf.framework/appconfig"
-	lf "lf.framework/framework"
-	"lf.framework/nlog"
-	"lf.framework/rabbitmq"
+	"github.com/langfengac/lf.framework/appconfig"
+	lf "github.com/langfengac/lf.framework/framework"
+	"github.com/langfengac/lf.framework/nlog"
+	"github.com/langfengac/lf.framework/rabbitmq"
 	"math/rand"
 )
 

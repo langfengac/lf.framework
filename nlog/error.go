@@ -2,8 +2,8 @@ package nlog
 
 import (
 	"fmt"
-	"lf.framework/appconfig"
-	lf "lf.framework/framework"
+	"github.com/langfengac/lf.framework/appconfig"
+	lf "github.com/langfengac/lf.framework/framework"
 	"time"
 )
 

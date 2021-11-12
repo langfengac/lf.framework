@@ -1,9 +1,9 @@
 package rabbitmq
 
 import (
+	"github.com/langfengac/lf.framework/appconfig"
+	"github.com/langfengac/lf.framework/nlog"
 	"github.com/streadway/amqp"
-	"lf.framework/appconfig"
-	"lf.framework/nlog"
 )
 
 func NewConn(confKey string) *amqp.Connection {
